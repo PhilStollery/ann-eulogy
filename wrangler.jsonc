@@ -1,0 +1,13 @@
+{
+  "name": "ann-eulogy",
+  "compatibility_date": "2025-08-29",
+  "assets": {
+    "directory": "."
+  },
+  "routes": [
+    {
+      "pattern": "ann.stollerys.co.uk",
+      "custom_domain": true
+    },
+  ]
+}
